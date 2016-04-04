@@ -1,0 +1,40 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~C:\Users\Chris\Desktop\»½ÐÑµÆ\PCB_Project\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~75|ReportField=ReportTime~1:57:23|ReportField=ReportDate~2016/4/5|ReportField=ReportDateTime~2016/4/5 1:57:23|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Chris\Desktop\»½ÐÑµÆ\PCB_Project\PCB_Project.PrjPcb
+3.6V|Multicell Battery|BT1|BAT-2|Battery|1
+100nF|Surface mount capacitor 0402|C1|SMT_C_0402|SMT_C_0402|1
+100uF TAJB107M006RNJ|Capacitor, SM Tantalum; Body 3.5 x 2.8 mm (LxW typ)|C2|SMT_C_Tantalum_B|SMT_C_Tantalum_B|1
+Cap|Capacitor|C3A, C3B, C3C, C3D, C5, C6, C7, C8, C9|RAD-0.3|Cap|9
+Cap Pol3|Polarized Capacitor (Surface Mount)|C4A, C4B, C4C, C4D, C10|C0805|Cap Pol3|5
+SS26|Schottky Rectifier|D1A, D1B, D1C, D1D|DO-204AL|Diode 11DQ03|4
+B230A|Zener Diode|D2|DIODE-0.7|D Zener|1
+1N4148|1 Amp General Purpose Rectifier|D3, D4|DO-41|Diode 1N4001|2
+Inductor|Inductor|L1A, L1B, L1C, L1D, L2|0402-A|Inductor|5
+BLUE|SMT LED|LED1|SMT_LED_0603|SMT_LED_0603|1
+LED-OUT|Header, 8-Pin, Right Angle|P1|HDR1X8H|Header 8H|1
+UART|Header, 4-Pin, Right Angle|P2|HDR1X4H|Header 4H|1
+Extra IO|Header, 10-Pin, Right Angle|P3|HDR1X10H|Header 10H|1
+Power|Header, 2-Pin|P4|HDR1X2|Header 2|1
+470|Surface mount resistor 0402|R1, R6, R8|SMT_R_0402|SMT_R_0402|3
+12k|Surface mount resistor 0402|R2, R3, R4, R9, R10|SMT_R_0402|SMT_R_0402|5
+0(NC)|Surface mount resistor 0402|R5|SMT_R_0402|SMT_R_0402|1
+220k(1%)|Surface mount resistor 0402|R7|SMT_R_0402|SMT_R_0402|1
+100k(1%)|Surface mount resistor 0402|R11|SMT_R_0402|SMT_R_0402|1
+0.15R|Surface mount resistor 0402|R12A, R12B, R12C, R12D|SMT_R_0402|SMT_R_0402|4
+0Ohm|Surface mount resistor 0402|R13, R14|SMT_R_0402|SMT_R_0402|2
+20k|Surface mount resistor 0402|R15|SMT_R_0402|SMT_R_0402|1
+100k 104|Surface mount resistor 0402|R16|SMT_R_0402|SMT_R_0402|1
+47k 4702|Surface mount resistor 0402|R17|SMT_R_0402|SMT_R_0402|1
+2.7k 2701|Surface mount resistor 0402|R18|SMT_R_0402|SMT_R_0402|1
+200R 2000|Surface mount resistor 0402|R19|SMT_R_0402|SMT_R_0402|1
+15k 1502|Surface mount resistor 0402|R20|SMT_R_0402|SMT_R_0402|1
+1.2k 1201|Surface mount resistor 0402|R21|SMT_R_0402|SMT_R_0402|1
+10k|Surface mount resistor 0402|R22, R23, R24|SMT_R_0402|SMT_R_0402|3
+2.5k|Surface mount resistor 0402|R25, R26|SMT_R_0402|SMT_R_0402|2
+KEY_RST/USER|SMT Tactile ?Switch PTS 820 Series|S1|SMT_SW_PTS_820|SMT_SW_PTS_820|1
+KEY_FLASH|SMT Tactile ?Switch PTS 820 Series|S2|SMT_SW_PTS_820|SMT_SW_PTS_820|1
+ESP_12_F|ESP-12 Wi-Fi Module by AI-Thinker|U1|ESP_12_E_L|ESP_12_E|1
+PT4115|LED Driver|U2A, U2B, U2C, U2D||PT4115|4
+Infrared In-VS1838|Infrared In|U3||VS1838|1
+MP2309||U4||MP2309|1
+Color sensor|Color sensor|U5|SO-8|TCS230|1
+Real Time||U6||PCF8583|1
+SMD|Crystal Oscillator|Y1|R38|XTAL|1
